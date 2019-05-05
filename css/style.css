@@ -395,29 +395,3 @@ body{width: 100%;overflow-x:hidden;}
 #footer h3{font-family: '楷体';clear:both;text-align: center;padding-top:30px;font-size:20px;color: #b0b0b0;}
 #footer .img-list{float: right;}
 #footer .img-list li{width:83px;height:30px;float: left;margin-left:5px;}
-
-/*------------------------------------------------------------------------------*/
-/*动画设置*/
-	/*定义幻灯片动画*/
-@keyframes slider_run{ 
-	0%{transform:translate(0%,0);}
-	
-	7%{transform:translate(-20%,0);}
-	20%{transform:translate(-20%,0);}
-
-	27%{transform:translate(-40%,0);}
-	40%{transform:translate(-40%,0);}
-
-	47%{transform:translate(-60%,0);}
-	60%{transform:translate(-60%,0);}
-
-	67%{transform:translate(-80%,0);}
-	80%{transform:translate(-80%,0);}
-
-	87%{transform:translate(0%,0);}
-	100%{transform:translate(0%,0);}
-}
-	/*添加动画*/
-.site-main .slider .contain{ 
-	animation:slider_run 20s 1s infinite;
-}

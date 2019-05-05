@@ -1,4 +1,4 @@
-@media screen and (max-width:1227px){ 
+@media screen and (max-width:1280px){ 
 	/*头部响应*/
 	.site-header{height: 180px;}
 	.site-header .header-middle{float: right;}
@@ -18,7 +18,7 @@
 	#footer .links{margin:0 auto;}
 
 }
-@media screen and (max-width:900px){ 
+@media screen and (max-width:960px){ 
 	/*顶部导航条响应*/
 	.nav-left{display: none;}
 	
@@ -108,7 +108,7 @@
 	#footer .desc{width:90%;}
 }
 
-@media screen and (max-width:420px){ 
+@media screen and (max-width:480px){ 
 	/*模块响应*/
 	.m-hdR{display: none;}
 	

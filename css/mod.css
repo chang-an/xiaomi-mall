@@ -30,17 +30,17 @@
 .m-box .m-col-5 .col:first-child{margin-left:0;}
 
 
-	/*幻灯片模块*/
-.m-slide{width:100%;}
-.m-slide-contain{font-size:0px;height:100%; text-align: center;}
-.m-slide-contain.m-s1{width:100%;}
-.m-slide-contain.m-s2{width:200%;}
-.m-slide-contain.m-s4{width:400%;}
-.m-slide-contain.m-s5{width:500%;}
-.m-slide-contain.m-s10{width:1000%;}
-.m-slide-contain .m-slide-item{display: inline-block;vertical-align: top; font-size:12px;}
-.m-slide-contain.m-s1 .m-slide-item{width:100%;}
-.m-slide-contain.m-s2 .m-slide-item{width:50%;}
-.m-slide-contain.m-s4 .m-slide-item{width:25%;}
-.m-slide-contain.m-s5 .m-slide-item{width:20%;}
-.m-slide-contain.m-s10 .m-slide-item{width:10%;}
+	/* 幻灯片模块 */
+	.m-slide{width:100%;}
+	.m-slide-contain{font-size:0px;height:100%; text-align: center;}
+	.m-slide-contain.m-s1{width:100%;}
+	.m-slide-contain.m-s2{width:200%;}
+	.m-slide-contain.m-s4{width:400%;}
+	.m-slide-contain.m-s5{width:500%;}
+	.m-slide-contain.m-s10{width:1000%;}
+	.m-slide-contain .m-slide-item{display: inline-block;vertical-align: top; font-size:12px;}
+	.m-slide-contain.m-s1 .m-slide-item{width:100%;}
+	.m-slide-contain.m-s2 .m-slide-item{width:50%;}
+	.m-slide-contain.m-s4 .m-slide-item{width:25%;}
+	.m-slide-contain.m-s5 .m-slide-item{width:20%;}
+	.m-slide-contain.m-s10 .m-slide-item{width:10%;}
